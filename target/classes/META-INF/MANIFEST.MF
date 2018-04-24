@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: abhimanyu
+Build-Jdk: 10.0.1
+Implementation-Title: spring-config-yaml-profile
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: spring-config-yaml
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spring-config-yaml-profile
+Created-By: Maven Integration for Eclipse
+

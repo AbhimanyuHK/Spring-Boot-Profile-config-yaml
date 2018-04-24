@@ -1,0 +1,16 @@
+logging:
+  level:
+    .: error
+    org.springframework: ERROR
+    com.mkyong: ERROR
+
+spring:
+  profiles:
+    active: "dev"
+  main:
+    banner-mode: "off"
+
+server:
+  email: abhimanyu@email.com
+  port: 2222
+  
